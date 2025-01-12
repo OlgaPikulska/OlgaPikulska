@@ -36,7 +36,7 @@ I'm a **Front-end Developer** with almost 3 years of experience in building web 
 
 📫 **Let’s connect!**  
 - 💼 [LinkedIn](https://www.linkedin.com/in/olga-pikulska/)
-- 📧 [Email me](mailto:olga.pikulska.dev@gmail.com)
+- 📧 [Email me](mailto:olga.pikulska.dev@gmail.com): olga.pikulska.dev@gmail.com
 
 Looking forward to collaborating with you! 😊
 
